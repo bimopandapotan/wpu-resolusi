@@ -2,7 +2,7 @@ RENCANA ISP WPU
 
 - Satelite
   * Based on Satelit Palapa
-- Signal tower
-  * Based on existing ISP
+    ^ How to make eco-friendly satelite
+    ^ How to make a satelite
 - Indonesian Space Station (Inaction)
   * Based on ISS
