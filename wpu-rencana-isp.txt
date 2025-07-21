@@ -1,6 +1,8 @@
 RENCANA ISP WPU
 
-- Satelit
+- Satelite
   * Based on Satelit Palapa
 - Signal tower
   * Based on existing ISP
+- Indonesian Space Station (Inaction)
+  * Based on ISS
