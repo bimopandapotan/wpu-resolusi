@@ -3,6 +3,7 @@ RENCANA ISP WPU
 - Satelite
   * Based on Satelit Palapa
     ^ How to launch a satelite
+    ^ How to make a satelite
 - Signal tower
   * Based on existing ISP
     ^ How to caught a signal
