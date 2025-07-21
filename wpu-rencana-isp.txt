@@ -1,4 +1,6 @@
 RENCANA ISP WPU
 
 - Satelit
+  * Based on Satelit Palapa
 - Signal tower
+  * Based on existing ISP
