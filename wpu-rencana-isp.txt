@@ -2,7 +2,10 @@ RENCANA ISP WPU
 
 - Satelite
   * Based on Satelit Palapa
+    ^ How to launch a satelite
 - Signal tower
   * Based on existing ISP
+    ^ How to caught a signal
 - Indonesian Space Station (Inaction)
   * Based on ISS
+- Indonesian astronauts
